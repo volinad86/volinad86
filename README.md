@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dmitrii</h1>
-<h3 align="center">A passionate frontend developer from Montreal</h3>
+<h1>Hi 👋, I'm Dmitrii</h1>
+<h3>A passionate frontend developer from Montreal</h3>
 
 - 🌱 I’m currently learning **JavaScript & React**
 
